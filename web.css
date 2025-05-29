@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: #39ed69;
+  text-align: left;
+  font-family: verdana;
+  font-size: 30px;
+}
+
+p {
+  color: #39ed69;
+  text-align: left;
+  font-family: verdana;
+  font-size: 20px;
+}
