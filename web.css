@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
 body {
   background-color: black;
 }
@@ -15,3 +16,11 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+
+.test1 {
+  color: yellow;
+  text-align: left;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 15px;
+}
+
