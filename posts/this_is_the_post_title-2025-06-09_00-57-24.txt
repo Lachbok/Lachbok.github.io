@@ -1,0 +1,6 @@
+<div class='postcontainer'>
+<p class='posttime'>2025-06-09 00:57:24</p><p class='posttitle'>this is the post title</p>
+<p class='posttext'>omg my very first post this is so kawai.<br>
+i should move to japan desu.<br>
+signing off</p>
+</div>

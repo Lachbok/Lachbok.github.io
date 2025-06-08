@@ -24,3 +24,36 @@ p {
   font-size: 15px;
 }
 
+.postcontainer {
+  border: 2px solid red;
+  padding: 5px;
+  width: 400px;
+  border-radius: 10px;
+  margin: 1px;
+  line-height: 0;
+}
+
+.posttitle {
+  color: yellow;
+  text-align: left;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
+.posttime {
+  color: red;
+  text-align: right;
+  font-family: sans-serif;
+  font-size: 10px;
+}
+
+.posttext {
+  color: white;
+  text-align: left;
+  font-family: sans-serif;
+  font-size: 15px;
+  line-height: 1;
+}
+
