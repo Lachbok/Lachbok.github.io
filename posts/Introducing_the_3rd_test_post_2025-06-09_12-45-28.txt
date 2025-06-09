@@ -1,0 +1,6 @@
+<div class='postcontainer'>
+<p class='posttime'>2025-06-09 12:45:28</p><p class='posttitle'>Introducing the 3rd test post</p>
+<p class='posttext'>this one i want to see if super long words and messages will automatically move onto a new line and not go outside the border.<br>
+lolololololololololololololololololololololololololololololololololololololololololololololololololololololol
+</p>
+</div>
