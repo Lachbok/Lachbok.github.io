@@ -1,0 +1,10 @@
+<div class='postcontainer'>
+<p class='posttime'>2025-06-10 03:17:44</p><p class='posttitle'>The holidays have begun</p>
+<p class='posttext'>Uni is officially over, I had my last exam on friday.<br>
+Once again I am excitingly filled with ideas on productive and fun ways to spend my time.<br>
+Right now i'm working on making this website, which is something i've wanted to do for a long time. To have a place where I can upload and display anything anyway I want, from random thoughts to projects and anything else without worrying about who sees it, because it's mostly for myself.<br>
+I also applied to a astrophysics undergrad research internship for these holidays, I really want to get accepted because it's such a cool opportunity.<br>
+I hope to utilize my time to the fullest the rest of these holidays.<br>
+
+</p>
+</div>
